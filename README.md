@@ -1,2 +1,2 @@
 # repo-remote  
-repositório durante de ser clonado  
+repositório durante de ser clonado   
